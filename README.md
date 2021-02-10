@@ -1,6 +1,6 @@
 # CounterNet
 
-**This repository is only avaiable during the ICML 2021 reviewing phrase.**
+*This repository is only avaiable during the ICML 2021 reviewing phrase. We will delete this repository after ICML 2021 reviewing phrase has completed, and upload this repository to author's real GitHub account.*
 
 ## Install the Package
 
@@ -9,7 +9,7 @@ pip install nbdev jupyter
 pip install -e .
 ```
 
-## Explanations for different directory
+## Explanations for directory
 
 - `counterfactual`: main python source code in the paper 
 - `data`: datasets used in the paper
