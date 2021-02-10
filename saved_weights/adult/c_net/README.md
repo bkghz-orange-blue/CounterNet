@@ -1,0 +1,1 @@
+"log/adult/115/cf_2opt_mse_clip/version_3/checkpoints"

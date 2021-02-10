@@ -1,0 +1,10 @@
+,size,# of Cont,# of Cat
+adult,32561,2,6
+home,10459,21,2
+student,32593,23,8
+breast_cancer,569,30,0
+credit_card,30000,20,3
+german_credit,1000,7,13
+heart,299,7,5
+student_performance,649,2,14
+titanic,891,2,24

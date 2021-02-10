@@ -1,0 +1,6 @@
+,diffs,total_nums,robustness
+vanilla_cf,0,0,
+diverse_cf,0,145,1.0
+proto_cf,0,0,
+vae_cf,0,54,1.0
+c_net_cf,0,10,1.0
