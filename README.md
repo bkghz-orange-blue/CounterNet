@@ -1,6 +1,6 @@
 # CounterNet
 
-*This repository is only avaiable during the ICML 2021 reviewing phrase. We will delete this repository after ICML 2021 reviewing phrase has completed, and upload this repository to author's real GitHub account.*
+*This repository is only avaiable during the ICML 2021 reviewing phrase. We will delete this repository after ICML 2021 reviewing phrase, and upload this repository to author's real GitHub account.*
 
 ## Install the Package
 
